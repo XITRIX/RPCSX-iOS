@@ -1,0 +1,12 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
+  "name": "moonlight",
+  "version": "1.0",
+  "dependencies": [
+    "ffmpeg",
+    "zstd",
+    "brotli",
+    "nghttp2"
+  ],
+  "overrides": []
+}

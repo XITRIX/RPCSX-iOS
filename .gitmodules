@@ -1,0 +1,6 @@
+[submodule "Submodules/rpcs3"]
+	path = Submodules/rpcs3
+	url = https://github.com/XITRIX/rpcs3.git
+[submodule "Submodules/vcpkg"]
+	path = Submodules/vcpkg
+	url = https://github.com/XITRIX/vcpkg.git
